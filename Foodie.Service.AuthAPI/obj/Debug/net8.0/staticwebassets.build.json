@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Sz93BPwcUXZFgUYzC+6yvHoSDnV4XnzBu/dQ7Zof+MU=",
+  "Source": "Foodie.Services.AuthAPI",
+  "BasePath": "_content/Foodie.Services.AuthAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

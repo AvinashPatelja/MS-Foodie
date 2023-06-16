@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Foodie.Services.Coupon.props" />
+</Project>

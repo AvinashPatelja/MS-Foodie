@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A40b6oyevhkl/RxrujbvxQ8O/IMDuVY+P7g90klUZwGYDEEHLTIgfyZdvm5J7E6zv6ej9wda/hrcJLuN+5723g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1000297887\\Downloads\\Microservice\\Foodie\\Foodie.Web\\Foodie.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1000297887\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
